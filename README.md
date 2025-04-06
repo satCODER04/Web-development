@@ -38,6 +38,7 @@ This project is a basic e-commerce backend system built using Java and Hibernate
               Relationship: Many-to-One with Orders, Many-to-One with Product
    
 **Technologies used**
+
 Java
 Hibernate
 MySQL
