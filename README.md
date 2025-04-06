@@ -84,6 +84,9 @@ Hibernate ORM used for mapping entities and performing DB operations
 
 Java classes are annotated with JPA annotations like @Entity, @Table, @GeneratedValue, @Id, @OneToMany, and @ManyToOne to map objects to database tables.
 Relationships between entities (Users, Orders, Products) are handled using proper Hibernate mappings.
+
+👉 See [TEST_CASES.md](./TEST_CASES.md) for test scenarios and expected outputs.
+
 Passwords are securely hashed using BCrypt before saving to the database.
 
 **Authors and Acknowledgment**
